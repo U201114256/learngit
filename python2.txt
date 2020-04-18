@@ -1,1 +1,2 @@
 I use python2.7 now.
+I have learning python2.7 1 hour.
